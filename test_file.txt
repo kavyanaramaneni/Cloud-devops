@@ -1,2 +1,4 @@
 Adding some content to mess with it later
 Append this text to initial commit
+Changing the content of test file from new branch
+
