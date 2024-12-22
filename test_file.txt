@@ -1,1 +1,2 @@
 Adding some content to mess with it later
+Append this text to initial commit
